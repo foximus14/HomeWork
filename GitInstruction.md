@@ -26,3 +26,5 @@
 
 * *Test info*
 
+![Хочу себе такой!](Helicopter.jpg)
+
